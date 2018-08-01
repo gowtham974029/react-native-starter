@@ -46,7 +46,7 @@ Packages to be installed are specified below to get started with React, Redux, R
     => components (folder)
        => auth (folder)
           => Login.js
-       => FirstScreen.js
+       => FirstScreen.js (These files you can move to your respective folder such as dashborad/home or anything)
        => SecondScreen.js
        => ThirdScreen.js
        => ...
