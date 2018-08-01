@@ -24,7 +24,7 @@ Packages to be installed are specified below to get started with React, Redux, R
   
   3. https://github.com/axios/axios 🤓 - Get started with network request library.
   
-  4. https://redux.js.org/basics/usagewithreact 🧐🤔 - know bit redux for state management.
+  4. https://redux.js.org/basics/usagewithreact 🧐🤔 - Know bit redux for state management.
   
   5. https://facebook.github.io/react-native/docs/getting-started 😀😃 - Get started with react-native.
   
