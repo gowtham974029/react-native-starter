@@ -18,6 +18,7 @@ Packages to be installed are specified below to get started with React, Redux, R
   
   
   # Important Links to reference the dependencies and its requirement
+
   1. https://reactnavigation.org/docs/en/getting-started.html 😃 - Get started with the react-navigation.
   
   2. https://github.com/expo/vector-icons 🤪 - Know bit of using icons from expo which built on top of @oblador/react-native-vector-icons.
@@ -32,3 +33,30 @@ Packages to be installed are specified below to get started with React, Redux, R
   
   7. https://docs.nativebase.io/docs/GetStarted.html 🤪😝 - Li'l bit save your time, reducing stylings and work around for UI.
   
+
+# File Structure handled-In
+
+* src
+    => actions (folder)
+       => AuthActions.js
+       => index.js
+       => types.js
+    => common (folder)
+       => Spinner.js
+    => components (folder)
+       => auth (folder)
+          => Login.js
+       => FirstScreen.js
+       => SecondScreen.js
+       => ThirdScreen.js
+       => ...
+    => images (folder)
+       => Nothing Yet.
+    => reducers (folder)
+       => AuthReducer.js
+       => index.js
+    => routing (folder)
+       => Auth.js
+       => NavigationService.js
+       => Router.js
+       => SplashScreen.js
