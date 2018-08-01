@@ -51,7 +51,7 @@ Packages to be installed are specified below to get started with React, Redux, R
        => ThirdScreen.js
        => ...
     => images (folder)
-       => Nothing Yet.
+       => * Add images here.
     => reducers (folder)
        => AuthReducer.js
        => index.js
