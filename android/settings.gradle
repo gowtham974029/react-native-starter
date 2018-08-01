@@ -1,0 +1,3 @@
+rootProject.name = 'NativeStarter'
+
+include ':app'
