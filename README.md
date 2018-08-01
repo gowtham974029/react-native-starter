@@ -17,4 +17,18 @@ Packages to be installed are specified below to get started with React, Redux, R
   https://facebook.github.io/react-native/docs/getting-started .
   
   
+  # Important Links to reference the dependencies and its requirement
+  1. https://reactnavigation.org/docs/en/getting-started.html 😃 - Get started with the react-navigation.
+  
+  2. https://github.com/expo/vector-icons 🤪 - Know bit of using icons from expo which built on top of @oblador/react-native-vector-icons.
+  
+  3. https://github.com/axios/axios 🤓 - Get started with network request library.
+  
+  4. https://redux.js.org/basics/usagewithreact 🧐🤔 - know bit redux for state management.
+  
+  5. https://facebook.github.io/react-native/docs/getting-started 😀😃 - Get started with react-native.
+  
+  6. https://github.com/reduxjs/redux-thunk 🤔 - Know bit redux-thunk(middleware).
+  
+  7. https://docs.nativebase.io/docs/GetStarted.html 🤪😝 - Li'l bit save your time, reducing stylings and work around for UI.
   
