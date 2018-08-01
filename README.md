@@ -36,7 +36,7 @@ Packages to be installed are specified below to get started with React, Redux, R
 
 # File Structure handled-In
 
-* src
+# src
     => actions (folder)
        => AuthActions.js
        => index.js
